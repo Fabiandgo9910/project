@@ -20,7 +20,7 @@ export default function Header() {
             <div className="w-10 h-10 rounded-full flex items-center justify-center" style={{ backgroundColor: '#317039' }}>
               <Heart className="w-6 h-6 text-white" />
             </div>
-            <img className=' w-72  ' src="/LOGO PETCONNECT-01.png" alt="" />
+            <img className=' w-72  ' src="/logo.png" alt="" />
           </div>
 
           {/* Desktop Navigation */}
