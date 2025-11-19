@@ -73,7 +73,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800">Teléfono</h4>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+34 (555) 123-4567</p>
                 </div>
               </div>
 
@@ -83,7 +83,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800">Ubicación</h4>
-                  <p className="text-gray-600">Ciudad de México, México</p>
+                  <p className="text-gray-600">Madrid, España</p>
                 </div>
               </div>
             </div>
